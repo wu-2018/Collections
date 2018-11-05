@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500"><defs>
+    <marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="2" orient="auto">
+        <path d="M0,0 L6,2 L0,4 L0,0" />
+    </marker>
+</defs>
+<line x1="50" y1="300" x2="238" y2="347" stroke="black" id="edge00" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge00" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(1)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">0,0</tspan>
+        </textPath></text><line x1="50" y1="300" x2="238" y2="252" stroke="black" id="edge01" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge01" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(1)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">0,1</tspan>
+        </textPath></text><line x1="50" y1="300" x2="240" y2="156" stroke="black" id="edge02" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge02" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(1)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">0,2</tspan>
+        </textPath></text><line x1="50" y1="200" x2="240" y2="344" stroke="black" id="edge03" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge03" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(1)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">1,0</tspan>
+        </textPath></text><line x1="50" y1="200" x2="238" y2="247" stroke="black" id="edge04" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge04" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(1)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">1,1</tspan>
+        </textPath></text><line x1="50" y1="200" x2="238" y2="152" stroke="black" id="edge05" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge05" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(1)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">1,2</tspan>
+        </textPath></text><line x1="250" y1="350" x2="439" y2="254" stroke="black" id="edge10" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge10" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(2)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">0,0</tspan>
+        </textPath></text><line x1="250" y1="250" x2="438" y2="250" stroke="black" id="edge11" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge11" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(2)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">1,0</tspan>
+        </textPath></text><line x1="250" y1="150" x2="439" y2="245" stroke="black" id="edge12" marker-end="url(#markerArrow)"></line><text><textPath xlink:href="#edge12" fill="grey" font-size="0.6em" startOffset="60%" >W
+        <tspan dy="-8" font-size="0.6em">(2)</tspan>
+        <tspan dy="7" dx="-7" font-size="0.6em">2,0</tspan>
+        </textPath></text><circle cx="50" cy="300" r="10" stroke="black" fill="white"></circle>/n<circle cx="50" cy="200" r="10" stroke="black" fill="white"></circle><text x="45" y="303" fill="grey" font-size="0.8em">x<tspan baseline-shift="sub" font-size="0.7em">0</tspan></text>/n<text x="45" y="203" fill="grey" font-size="0.8em">x<tspan baseline-shift="sub" font-size="0.7em">1</tspan></text><circle cx="250" cy="350" r="10" stroke="black" fill="white"></circle>/n<circle cx="250" cy="250" r="10" stroke="black" fill="white"></circle>/n<circle cx="250" cy="150" r="10" stroke="black" fill="white"></circle><text x="245" y="353" fill="grey" font-size="0.8em">h<tspan baseline-shift="sub" font-size="0.7em">0</tspan></text>/n<text x="245" y="253" fill="grey" font-size="0.8em">h<tspan baseline-shift="sub" font-size="0.7em">1</tspan></text>/n<text x="245" y="153" fill="grey" font-size="0.8em">h<tspan baseline-shift="sub" font-size="0.7em">2</tspan></text><circle cx="450" cy="250" r="10" stroke="black" fill="white"></circle><text x="445" y="253" fill="grey" font-size="0.8em">y<tspan baseline-shift="sub" font-size="0.7em">0</tspan></text><line x1="10" y1="300" x2="37" y2="300" stroke="black" marker-end="url(#markerArrow)"></line>/n<line x1="10" y1="200" x2="37" y2="200" stroke="black" marker-end="url(#markerArrow)"></line><line x1="460" y1="250" x2="490" y2="250" stroke="black" marker-end="url(#markerArrow)"></line></svg>
