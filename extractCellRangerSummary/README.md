@@ -1,9 +1,9 @@
 # 
 
 ***
-*Until this script has been finished, I found a `metrics_summary.csv` locates under the same folder with `web_summary.html`, so actually there's no need to extract information from the html.*
+*Until this script has been finished, I found a `metrics_summary.csv` locating under the same folder with `web_summary.html`, so actually there's no need to extract information from the html.*
   
-*Admittedly I've took a detour. But anyway, this script can equally work and I've trained my python crawler skills again.*
+*Admittedly I've taken a detour. But anyway, this script can equally work and I've trained my python crawler skills again.*
   
 ***
 
