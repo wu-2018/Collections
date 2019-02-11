@@ -1,0 +1,15 @@
+[Unit]
+Description=frpc
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/wqk/script/frpc.sh
+ExecStop=/usr/bin/killall frpc
+RemainAfterExit=yes
+User=wqk
+Group=wqk
+
+[Install]
+WantedBy=multi-user.target
+

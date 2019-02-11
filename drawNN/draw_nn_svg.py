@@ -58,9 +58,9 @@ while i< layers-1:
 
 #Draw nodes
 for i in range(layers):
-    content += '/n'.join([c%ii for ii in points[i]])
+    content += '\n'.join([c%ii for ii in points[i]])
     if add_node_desc:
-        content += '/n'.join([t%((value[0]-5,value[1]+3)+(desc[i], str(index))) for index,value in enumerate(points[i])])
+        content += '\n'.join([t%((value[0]-5,value[1]+3)+(desc[i], str(index))) for index,value in enumerate(points[i])])
 
 #input&output arrow
 content += "/n".join([l%(i[0]-40,i[1],i[0]-r-3,i[1]) for i in points[0]])

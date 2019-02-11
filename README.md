@@ -2,6 +2,9 @@
 
 Scripts of some sporadic ideas.  
 
+## Build private cloud storage using Seafile
+[An example of config files for building Seafile server on linux](Seafile_server_config/)
+
 ## Selenium for automated web information extraction
 [A brief example showing how selenium helps in querying research papers](selenium_pubmed/)
   
